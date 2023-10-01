@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+import sys
+import time
+import random
 """Module that factorize as many numbers as possible
  into a product of two smaller numbers."""
 from sys import argv
